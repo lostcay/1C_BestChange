@@ -9,4 +9,4 @@
 
 На данный момент протестировано в конфигурации Бухгалтерия предприятия (3.0.107.37); Платформа версии 8.3.19.1229
 
-![Логотип проекта](https://github.com/lostcay/1C_BestChange/blob/main/logo.png)
+![Логотип проекта](https://github.com/lostcay/1C_BestChange/blob/main/docs/logo.png)
